@@ -9,5 +9,5 @@
 <p><tt>Молдабаеав Олжас</tt>-Технический руководитель</p>
 <p><tt>Гречихин Марат</tt>-</p>
 <p><tt>Корольков Тимур</tt>-QA </p>
-Аналитика проекта -  <p><a href="https://na-molitvax.atlassian.net/wiki/spaces/~63dcdeffdb4f715c9721443a/pages/327681/HR+X2000+PRO+SERIES+XBOX">Confluence</a></p>
+Аналитика проекта -  <a href="https://na-molitvax.atlassian.net/wiki/spaces/~63dcdeffdb4f715c9721443a/pages/327681/HR+X2000+PRO+SERIES+XBOX">Confluence</a>
   
